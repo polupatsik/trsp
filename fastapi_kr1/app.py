@@ -24,7 +24,7 @@ def calculate(num1: int, num2: int):
 
 
 user_instance = User(
-    name="Ваше Имя и Фамилия",
+    name="Дружков Михаил",
     id=1
 )
 
