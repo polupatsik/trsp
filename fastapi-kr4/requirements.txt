@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+email-validator
+pytest
+pytest-asyncio
+httpx
+faker
